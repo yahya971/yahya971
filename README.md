@@ -1,5 +1,5 @@
 
-<h1 align="center" Heyo, I'm <a>Yahya</a> aka 5ly Cooper! 👋 <img src="https://komarev.com/ghpvc/?username=yahya971&style=flat-square"/>
+<h1 align="center" Heyo, I'm <a>Yahya</a>👋 <img src="https://komarev.com/ghpvc/?username=yahya971&style=flat-square"/>
 </h1>
 
 <p align="center">
